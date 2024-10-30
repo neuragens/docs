@@ -1,6 +1,6 @@
 # NeuraGens Documentation
 
-You can find the online version of the NeuraGens documentation at [documentation](http://neuragens-docs.s3-website-sa-east-1.amazonaws.com/)
+You can find the online version of the NeuraGens documentation at [documentation](https://docs.neuragens.io/)
 
 ## Contribution Guidelines
 
