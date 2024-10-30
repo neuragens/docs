@@ -7,10 +7,10 @@ import { Footer } from "@/components/footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AriaDocs - Template",
-  metadataBase: new URL("https://ariadocs.vercel.app/"),
+  title: "NeuraGens Documentation",
+  metadataBase: new URL("https://github.com/neuragens"),
   description:
-    "This comprehensive documentation template, crafted with Next.js and available as open-source, delivers a sleek and responsive design, tailored to meet all your project documentation requirements.",
+    "NeuraGens is an open-source framework for developing Generative AI (GenAI) applications.",
 };
 
 export default function RootLayout({
